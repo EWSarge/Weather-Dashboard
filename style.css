@@ -1,0 +1,40 @@
+body{
+    background-image: url("papyrus.png");
+}
+
+
+#header{
+    background-color: gray;
+    color: white;
+    height: 75px;
+}
+
+h2{
+    line-height: 20px;
+}
+
+.jumbotron{
+    width: 1000px;
+    position: relative;
+    left: 50px;
+    margin-top: 20px;
+}
+
+.list-group{
+    position:absolute;
+    float: left;
+    left: 20px;
+    margin-top: 20px;
+};
+
+.jumbotron{
+    width: 500px;
+    background-color: white;
+}
+
+.col-2{
+    left: 110px;
+    background-color: turquoise;
+    margin: 5px;
+
+}
